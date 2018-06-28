@@ -1,0 +1,3 @@
+[submodule "myproject_site"]
+	path = myproject_site
+	url = https://myrhode.myhost.com/projects/myproject_site
